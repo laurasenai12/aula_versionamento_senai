@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 d33b41490b75e40a8dc1d0ac40fe55ba15c48033 laura <laura.neiva@portalsesisp.org.br> 1789728459 -0300	commit (initial): feat: adiciona a Situação de Aprendizagem 1
+d33b41490b75e40a8dc1d0ac40fe55ba15c48033 ebeb5bab3e6f24df0047a02d715f79b8c28c6e10 laura <laura.neiva@portalsesisp.org.br> 1789728628 -0300	pull origin main --rebase (finish): refs/heads/main onto 5085d4faac7b3d9e860ac5f8b2ca627879411933
+ebeb5bab3e6f24df0047a02d715f79b8c28c6e10 ce8a23ee5e955d6ce5c785bb11e0c21effd29424 laura <laura.neiva@portalsesisp.org.br> 1789730063 -0300	commit: head feita
+ce8a23ee5e955d6ce5c785bb11e0c21effd29424 6aa47a284405ea4d7a55696be9e3eed723eee3d7 laura <laura.neiva@portalsesisp.org.br> 1789730963 -0300	commit: Header e Barra de pesquisa feitas
+6aa47a284405ea4d7a55696be9e3eed723eee3d7 594765045161ca2a70e7c77913b41aca1225f094 laura <laura.neiva@portalsesisp.org.br> 1789731735 -0300	commit: Fazendo a head do site
+594765045161ca2a70e7c77913b41aca1225f094 6221262f2c1eb7dc50c858650ef417721d15d9cb laura <laura.neiva@portalsesisp.org.br> 1789732141 -0300	commit: Head feita
+6221262f2c1eb7dc50c858650ef417721d15d9cb caa926cf3ec697b070e8c0ca5a3907ccf70ae880 laura <laura.neiva@portalsesisp.org.br> 1789732187 -0300	commit: fazendo o body
+caa926cf3ec697b070e8c0ca5a3907ccf70ae880 163b3774a6f779600a669f9e4a44eb608f0c11c6 laura <laura.neiva@portalsesisp.org.br> 1789732356 -0300	commit: adicionando logo
+163b3774a6f779600a669f9e4a44eb608f0c11c6 0c9e14a13d4cc1fcf3e28135d84b5fa0ff3b62ea laura <laura.neiva@portalsesisp.org.br> 1789733291 -0300	commit: Criando novo arquivo index
+0c9e14a13d4cc1fcf3e28135d84b5fa0ff3b62ea 1d0ca70be6a72b829af981571c2278bc3628a6bb laura <laura.neiva@portalsesisp.org.br> 1789733419 -0300	commit: fazendo a Head do blog de viagens
+1d0ca70be6a72b829af981571c2278bc3628a6bb c4e21246b3b96c3d88b4576f7d934227fb4bc8b3 laura <laura.neiva@portalsesisp.org.br> 1789735136 -0300	commit: head feita
+c4e21246b3b96c3d88b4576f7d934227fb4bc8b3 0f691f07f2f8b4728c6d20a9b81c5e1413f978ec laura <laura.neiva@portalsesisp.org.br> 1789735267 -0300	commit: fazendo o body do blog de viagens
+0f691f07f2f8b4728c6d20a9b81c5e1413f978ec 27bccb84f9ea31252af7554b6b09e6e5445c4ebb laura <laura.neiva@portalsesisp.org.br> 1789735306 -0300	commit: header feita
+27bccb84f9ea31252af7554b6b09e6e5445c4ebb 15e2cb9375cc26af07f7dcf7ba7af6699eeb3ffc laura <laura.neiva@portalsesisp.org.br> 1789735347 -0300	commit: nav feita
+15e2cb9375cc26af07f7dcf7ba7af6699eeb3ffc eab03634cbc1991f7db6d979d56c09ed01d99432 laura <laura.neiva@portalsesisp.org.br> 1789735378 -0300	commit: fazendo o banner e busca
+eab03634cbc1991f7db6d979d56c09ed01d99432 183001e62b4ef70a04ad7f0d468378d614ece83d laura <laura.neiva@portalsesisp.org.br> 1789735575 -0300	commit: banner e busca feitos
+183001e62b4ef70a04ad7f0d468378d614ece83d e8cbb4231aeebf591213fa5502eb1926cbb1bf37 laura <laura.neiva@portalsesisp.org.br> 1789735646 -0300	commit: fazendo o main - conteúdo principal do blog
+e8cbb4231aeebf591213fa5502eb1926cbb1bf37 4fcceb623e6c73f303bb1140e394ab3eb9b57153 laura <laura.neiva@portalsesisp.org.br> 1789736407 -0300	commit: main feito
+4fcceb623e6c73f303bb1140e394ab3eb9b57153 9d6fd9664d56da7512a80e6830277c1321a8c7ac laura <laura.neiva@portalsesisp.org.br> 1789736682 -0300	commit: fazendo o rodapé do blog de viagens
+9d6fd9664d56da7512a80e6830277c1321a8c7ac 6f2c3640d8eb648b7d26354a133498b9cc78f059 laura <laura.neiva@portalsesisp.org.br> 1789736882 -0300	commit: rodapé feito
+6f2c3640d8eb648b7d26354a133498b9cc78f059 fc587cef9bbcccbedc4ae4b5e153d22d166c5528 laura <laura.neiva@portalsesisp.org.br> 1789736974 -0300	commit: Criando o arquivo do estilo css
+fc587cef9bbcccbedc4ae4b5e153d22d166c5528 e825d2eeff40cfc8aabcf42641c88800f204b560 laura <laura.neiva@portalsesisp.org.br> 1789737054 -0300	commit: colocando estilo no body
+e825d2eeff40cfc8aabcf42641c88800f204b560 e512628325790168e216dc7f0a494a8fecacec39 laura <laura.neiva@portalsesisp.org.br> 1789737123 -0300	commit: estilo do body feito
+e512628325790168e216dc7f0a494a8fecacec39 8ee51c2360e9e2dead8f6ee1ead6b05a588813e2 laura <laura.neiva@portalsesisp.org.br> 1789737183 -0300	commit: estilo container feito
+8ee51c2360e9e2dead8f6ee1ead6b05a588813e2 81332e1c90d04e59f4e03e19f76aecbf96f1cf73 laura <laura.neiva@portalsesisp.org.br> 1789737207 -0300	commit: colocando estilo na header
+81332e1c90d04e59f4e03e19f76aecbf96f1cf73 ce8e9bbdcc78cfde9b31d088878c70d7d41beb2f laura <laura.neiva@portalsesisp.org.br> 1789738674 -0300	commit: reestruturando
+ce8e9bbdcc78cfde9b31d088878c70d7d41beb2f ea1be7f481bd260df0c2c8299cc61e7bfda83050 laura <laura.neiva@portalsesisp.org.br> 1789745482 -0300	commit: criando novo arquivo index
+ea1be7f481bd260df0c2c8299cc61e7bfda83050 81a426f50c8c86a15601ac76cddbcc8ac875f1fd laura <laura.neiva@portalsesisp.org.br> 1789745799 -0300	commit: reestruturando o git e inicializando o site
